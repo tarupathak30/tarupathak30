@@ -1,9 +1,3 @@
-## hi, Taru Pathak here
-
-
-## Tech Stack
-
-
 ### Core Languages
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
