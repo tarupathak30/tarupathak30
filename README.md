@@ -1,6 +1,6 @@
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarupathak30&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarupathak30&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarupathak30&layout=compact&theme=tokyonight)
 
