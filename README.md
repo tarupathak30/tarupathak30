@@ -1,8 +1,11 @@
 ### Core Languages
 
+# Core Languages
+
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![C](https://img.shields.io/badge/language-C-blue)
 ![C++](https://img.shields.io/badge/language-C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 
 
 ###  ML / AI
