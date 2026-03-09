@@ -1,7 +1,5 @@
 ## Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarupathak30&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarupathak30&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarupathak30&show_icons=true&theme=tokyonight&v=2)
 
 
 ![Snake animation](https://github.com/tarupathak30/tarupathak30/blob/output/github-contribution-grid-snake.svg)
