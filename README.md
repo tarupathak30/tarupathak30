@@ -1,4 +1,4 @@
-
+<img src="https://github.com/tarupathak30/tarupathak30/blob/main/starry_night.jfif" width="100%">
 ## taru pathak
 
 ai | ml | agent systems
