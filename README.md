@@ -1,10 +1,12 @@
-![Snake animation](https://github.com/tarupathak30/tarupathak30/blob/output/github-contribution-grid-snake.svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tarupathak30&color=blue)
+## taru pathak
 
+ai | ml | agent systems
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+Systems+Builder;RAG+Pipeline+Developer;FastAPI+Backend+Builder)
+somewhere between mathematics and poetry,
+intelligence begins to emerge.
 
+> curiosity is the only real superpower.
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![C](https://img.shields.io/badge/language-C-blue)
