@@ -1,4 +1,6 @@
-https://github.com/tarupathak30/tarupathak30/blob/main/Galaxy%20Kitten%20Twitter%20header.jfif
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tarupathak30/tarupathak30/main/Galaxy%20Kitten%20Twitter%20header.jfif" width="100%">
+</p>
 
 ## taru pathak
 
